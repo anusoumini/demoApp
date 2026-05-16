@@ -19,6 +19,7 @@ function App() {
           <h1>Get started</h1>
           <h2>This is developer branch</h2>
           <h2>This is branch 1</h2>
+          <h2>This is branch 2</h2>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
